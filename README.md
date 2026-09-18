@@ -6,7 +6,6 @@
 
 ## Tecnologias utilizadas
 - Python 3.14.7
-- speedtest-cli 2.1.3
 
 ## Como executar
 
